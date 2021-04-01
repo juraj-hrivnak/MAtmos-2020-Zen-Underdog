@@ -366,7 +366,6 @@
         "Alot of ice (S)"
       ],
       "no": [
-        
       ]
     },
     "Alot of water": {
@@ -374,7 +373,7 @@
         "Alot of water (S)"
       ],
       "no": [
-        
+
       ]
     },
     "No land nearby": {
@@ -537,7 +536,7 @@
         "Can rain on"
       ],
       "no": [
-        
+
       ]
     },
     "In Thunderstorm": {
@@ -545,7 +544,7 @@
         "In Thunderstorm"
       ],
       "no": [
-        
+
       ]
     },
     "Keep vanilla rain": {
@@ -553,7 +552,7 @@
         "Keep vanilla rain"
       ],
       "no": [
-        
+
       ]
     },
     "Plains (L)": {
@@ -638,7 +637,7 @@
     },
     "Not outdoors": {
       "yes": [
-        
+
       ],
       "no": [
         "_RAYCAST_SCAN_OUTDOORS"
@@ -649,7 +648,7 @@
         "Time (0 - 13000)"
       ],
       "no": [
-      
+
       ]
     },
     "Nighttime": {
@@ -786,7 +785,7 @@
           }
         ],
         "indoor": [
-        
+
         ]
       },
       "fadein": 3.0,
@@ -805,7 +804,7 @@
         ],
         "indoor": [
           {
-            
+
             "path": "matmos_hl/loop/wind_forest_indoors.ogg",
             "vol": 0.08,
             "pitch": 1.0,
@@ -873,7 +872,7 @@
         ],
         "indoor": [
           {
-            
+
             "path": "matmos_hl/loop/wind_novege_indoors.ogg",
             "vol": 0.08,
             "pitch": 1.0,
@@ -1151,7 +1150,7 @@
         "Alot of ice"
       ],
       "restrict": [
-        
+
       ],
       "fadein": 3.0,
       "fadeout": 3.0,
@@ -1210,7 +1209,7 @@
         "Is Underwater Directly"
       ],
       "restrict": [
-        
+
       ],
       "fadein": 0.0,
       "fadeout": 0.0,
@@ -1338,7 +1337,7 @@
         "Snowing outdoors"
       ],
       "restrict": [
-        
+
       ],
       "fadein": 2.0,
       "fadeout": 2.0,
@@ -1355,7 +1354,7 @@
         "Nether main"
       ],
       "restrict": [
-        
+
       ],
       "fadein": 2.0,
       "fadeout": 2.0,
@@ -1372,7 +1371,7 @@
         "Nether tight"
       ],
       "restrict": [
-        
+
       ],
       "fadein": 2.0,
       "fadeout": 2.0,
@@ -1389,7 +1388,7 @@
         "Nether top"
       ],
       "restrict": [
-        
+
       ],
       "fadein": 2.0,
       "fadeout": 2.0,
@@ -1465,7 +1464,7 @@
     }
   },
   "event": {
-  
+
   },
   "list": {},
   "dynamic": {
