@@ -1,5 +1,5 @@
-> Fork of MAtmos 2020 "Zen" by Makamys for use in Underdog modpack.
-> #### Goal is to customize some sounds to fit more in the pack.
+Fork of MAtmos 2020 "Zen" by Makamys for use in Underdog modpack.
+The goal is to customize some sounds to fit more in the pack.
 
 [![Download](https://img.shields.io/badge/-soundpack%20download-brightgreen)](https://github.com/makamys/MAtmos-2020-Zen/releases)
 
